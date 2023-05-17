@@ -6,7 +6,7 @@ public class EX2 {
 		// TODO Auto-generated method stub
 		int sum = 0;
 		for (int i = 1; i < 100; i++) {
-			if (i % 3 == 0) sum += i; // 3ÀÇ ¹è¼ö¸é ´õÇÏ±â
+			if (i % 3 == 0) sum += i; // 3ì˜ ë°°ìˆ˜ë§Œ í•©
 		}
 		System.out.println(sum);
 	}
