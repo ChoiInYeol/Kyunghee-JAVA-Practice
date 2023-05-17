@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class EX6 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("NÀ» ÀÔ·ÂÇÏ¼¼¿ä : ");
+		System.out.println("Nì„ ì…ë ¥í•˜ì„¸ìš” : ");
 		int N = scan.nextInt();
 		for (int i = 0; i < N; i++) {
 			for (int j = N-i; j > 0; j--) {
